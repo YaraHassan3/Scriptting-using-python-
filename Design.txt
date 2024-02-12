@@ -1,0 +1,15 @@
+5 //Number of Inputs
+
+IP1 2
+IP2 1
+IP3 1
+clk 1 //clockSignal
+rst 1 //Rest_Signal
+
+5 //Number of Outputs
+
+OP1 2
+OP2 1
+OP3 1
+OP4 2
+OP5 3
