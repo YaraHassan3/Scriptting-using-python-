@@ -2,6 +2,7 @@ Project Description:
 The aim of this project is to create a program that generates template designs and testbench Verilog modules. The program will handle the following tasks:
 
 •	Module Design: Generate a file with a name matching the module and write the template module design code into it.
+
 •	Testbench Design: Generate a file with a name matching the module and append "Testbench" to the filename. Write the testbench module code into this file.
 
 Information File Description:
